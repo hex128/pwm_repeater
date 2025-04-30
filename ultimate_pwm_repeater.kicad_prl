@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 5,
-    "active_layer_preset": "All Layers",
+    "active_layer": 0,
+    "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -9,7 +9,7 @@
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
-      "pads": 1.0,
+      "pads": 0.36000001430511475,
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
@@ -49,13 +49,13 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffff7f",
     "zone_display_mode": 0
   },
   "git": {
-    "repo_type": "",
-    "repo_username": "",
-    "ssh_key": ""
+    "repo_type": "ssh",
+    "repo_username": "git",
+    "ssh_key": "~.ssh/id_rsa"
   },
   "meta": {
     "filename": "ultimate_pwm_repeater.kicad_prl",
