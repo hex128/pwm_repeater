@@ -7,7 +7,7 @@
 	(title_block
 		(title "PWM Repeater")
 		(date "2025-04-30")
-		(rev "0.3")
+		(rev "0.4")
 		(company "Hex of the River and the Sparks")
 	)
 	(lib_symbols
