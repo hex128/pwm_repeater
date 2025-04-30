@@ -6,7 +6,8 @@
 	(paper "A5")
 	(title_block
 		(title "PWM Repeater")
-		(date "2025-04-29")
+		(date "2025-04-30")
+		(rev "0.2")
 		(company "Hex of the River and the Sparks")
 	)
 	(lib_symbols
