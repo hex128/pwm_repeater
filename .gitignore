@@ -1,0 +1,8 @@
+.DS_Store
+fp-info-cache
+/production
+fabrication-toolkit-options.json
+/.tmp*
+/*-backups
+*.kicad_*-bak
+*.lck
