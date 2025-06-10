@@ -6,3 +6,4 @@ fabrication-toolkit-options.json
 /*-backups
 *.kicad_*-bak
 *.lck
+\#auto_saved_files\#
